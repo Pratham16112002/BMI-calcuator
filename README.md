@@ -3,6 +3,7 @@
 ## Demo for input page
 ![Calculate_bmi](https://user-images.githubusercontent.com/90999700/211196034-d10dc262-ccde-4c00-95e0-80f8c119bdf0.png)
 ## Demo for result page
+![BMI_result](https://user-images.githubusercontent.com/90999700/211196274-74bccb39-8d03-4c80-94ed-a8505d068fe1.png)
 
 
 ## Getting Started
